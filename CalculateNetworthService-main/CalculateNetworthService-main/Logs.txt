@@ -1,0 +1,19 @@
+INFO  12:19:15 Application started. Press Ctrl+C to shut down.
+INFO  12:19:15 Hosting environment: Development
+INFO  12:19:15 Content root path: C:\Users\Venky\OneDrive\Desktop\portfoliomaim\CalculateNetworthService-main
+INFO  12:19:48 Get Post request of SellStock
+INFO  12:19:57 Get Post request of SellStock
+INFO  12:20:13 Http Post request of calculateNetWorth
+INFO  04:59:29 Now listening on: http://localhost:5001
+INFO  04:59:29 Application started. Press Ctrl+C to shut down.
+INFO  04:59:29 Hosting environment: Development
+INFO  04:59:29 Content root path: C:\PortfolioManagement\CalculateNetworthService-main\CalculateNetworthService-main
+INFO  05:00:53 Http Post request GetStockByCustomer
+INFO  05:01:04 Http Post request of GetMutualFundByCustomer
+INFO  05:01:15 Http Post request of calculateNetWorth
+INFO  05:01:42 Application is shutting down...
+INFO  09:20:17 Now listening on: http://localhost:5001
+INFO  09:20:17 Application started. Press Ctrl+C to shut down.
+INFO  09:20:17 Hosting environment: Development
+INFO  09:20:17 Content root path: C:\PortfolioManagement\CalculateNetworthService-main\CalculateNetworthService-main
+INFO  09:23:17 Http Post request GetStockByCustomer
